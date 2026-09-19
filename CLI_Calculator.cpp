@@ -45,7 +45,7 @@ int main()
             cout << "Division with 0 is not possible! Try again." << '\n';
             break;
           }
-          cout << "Your answer is: " << (double)num1/num2;
+          cout << "Your answer is: " << num1/num2;
           invalid_op=false;
           break;
   
